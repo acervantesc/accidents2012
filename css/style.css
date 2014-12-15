@@ -1,0 +1,89 @@
+#sideBar{
+	
+	height: 600px;
+	width: 230px;
+	position: absolute;
+	float: fixed;
+	top: 0px;
+    right: 0px;
+    font-family: Helvetica;
+	background: rgba(255, 255, 255, 0.85);
+	z-index: 1;
+	box-sizing: border-box;
+}
+
+#map {
+	width: 100%;
+	height: 450px;
+}
+
+#slider{
+
+	position: absolute;
+	float: fixed;
+	top: 570px;
+    right: 0px;
+	z-index: 1;
+
+}
+
+
+.info {
+	width: 180px;
+	padding: 6px 8px;
+	font: 20px/20px;
+	font-family: Helvetica, sans-serif;
+	
+}
+.info h6 {
+	font-size: 14px;
+	margin-top: 20px;
+	font-family: Helvetica, sans-serif;
+	
+	color: #bd0026;
+}
+
+
+.info h4 {
+	line-height: 101%;
+
+}
+
+.info h1 {
+	margin-top: 30px;
+	font-size: 100px;
+	font-family: "HelveticaNeue", "Helvetica Neue", Helvetica;
+	color:gray;
+	
+
+}
+
+.legend {
+	font: 14px;
+	font-family: Helvetica, sans-serif;
+	text-align: left;
+	line-height: 25px;
+	color: black;
+}
+.legend i {
+
+	width: 25px;
+	height: 20px;
+	float: left;
+	margin-right: 12px;
+}
+
+
+h1{
+	font-family: Helvetica, sans-serif;
+	margin-top: 15px;
+	margin-bottom: none;
+	margin-left: none;
+	font-size: 35px;
+}
+
+h6{
+	font-family: Helvetica, sans-serif;
+	font-weight: lighter;
+	margin-left: none;
+	font-size: 25px;
