@@ -121,7 +121,7 @@
 		legend.addTo(map);
 
 
-//slider
+//bottons
 
 $(function() {
     $( "#slider" ).slider({
